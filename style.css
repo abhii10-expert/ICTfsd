@@ -1,0 +1,47 @@
+
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+}
+
+h3{
+    color: rgb(235, 164, 78);
+}
+
+#change{
+    color: rgb(112, 206, 112);
+}
+
+button{
+    color: white;
+    background: red;
+    
+}
+
+ul{
+    color: greenyellow;
+}
+ol{
+    color: greenyellow;
+}
+
+.int
+{
+    margin-left: 100px;
+    margin-right: 50%;
+    border: 2px solid red;
+    padding-left: 50px;
+}
+
+.sty{
+    text-align: center;
+}
+
+h2{
+    
+    border: 2px solid green;
+    background-color: aquamarine;
+    background-size: contain 50px;
+
+}
